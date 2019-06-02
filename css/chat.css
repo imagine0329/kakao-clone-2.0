@@ -97,10 +97,11 @@
     0px -12px 36px -8px rgba(0, 0, 0, 0.025);
   padding: 10px 20px;
   border-radius: 40px;
+  display: block;
 }
 
 .incoming-message .message__author {
-  margin-top: 25px;
+  margin-top: 10px;
   display: block;
   font-weight: 600;
   font-size: 12px;
